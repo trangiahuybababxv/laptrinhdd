@@ -1,4 +1,4 @@
-package exmaple3.myapp
+package exmaple2.myapp
 
 import java.lang.Math.PI
 
